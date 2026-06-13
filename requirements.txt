@@ -1,6 +1,4 @@
-streamlit
-torch
+streamlit>=1.33.0
 transformers
-accelerate
-datasets
 huggingface_hub
+accelerate
