@@ -58,7 +58,7 @@ python train.py \
 python app.py
 ```
 
-Open [http://127.0.0.1:7860](http://127.0.0.1:7860) in your browser.
+Open [[http://127.0.0.1:7860](https://b9594be72ccb1f8a8b.gradio.live/)] in your browser.
 
 ---
 
