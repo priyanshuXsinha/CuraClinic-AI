@@ -1,0 +1,14 @@
+[theme]
+primaryColor        = "#0d9488"   # teal-600
+backgroundColor     = "#f8fafc"   # slate-50
+secondaryBackgroundColor = "#f0fdfa"  # teal-50
+textColor           = "#1e293b"   # slate-800
+font                = "sans serif"
+
+[server]
+headless      = true
+enableCORS    = false
+port          = 8501
+
+[browser]
+gatherUsageStats = false
