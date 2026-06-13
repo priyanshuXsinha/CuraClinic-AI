@@ -18,7 +18,7 @@ import os
 import streamlit as st
 from threading import Thread
 # from transformers import TextIteratorStreamer
-# from unsloth import FastLanguageModel
+from unsloth import FastLanguageModel
 
 # ──────────────────────────────────────────────
 # Page config  (must be first Streamlit call)
