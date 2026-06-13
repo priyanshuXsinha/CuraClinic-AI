@@ -1,5 +1,5 @@
 # 🏨 AI Medical Expert — Phi-2 Fine-Tuned
-
+WEBSITE- https://b9594be72ccb1f8a8b.gradio.live
 A medical Q&A assistant powered by **Microsoft Phi-2** fine-tuned on the
 [Medical-o1 Reasoning SFT dataset](https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT)
 using **Unsloth + LoRA** for 2× faster, memory-efficient training.
